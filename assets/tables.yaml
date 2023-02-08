@@ -1,0 +1,23 @@
+coronavirus-cases-linear: "Total Cases - Linear Scale (Cases)"
+coronavirus-cases-log: "Total Cases - Logarithmic Scale (Cases)"
+coronavirus-deaths-linear: "Total Deaths - Linear Scale (Deaths)"
+coronavirus-deaths-log: "Total Deaths - Logarithmic Scale (Deaths)"
+
+graph-cases-daily-1: "Daily New Cases - Cases per Day (Daily Cases)"
+graph-cases-daily-2: "Daily New Cases - Cases per Day (3-day moving average)"
+graph-cases-daily-3: "Daily New Cases - Cases per Day (7-day moving average)"
+graph-deaths-daily-1: "Daily Deaths - Deaths per Day (Daily Deaths)"
+graph-deaths-daily-2: "Daily Deaths - Deaths per Day (3-day moving average)"
+graph-deaths-daily-3: "Daily Deaths - Deaths per Day (7-day moving average)"
+
+graph-active-cases-total: "Active Cases - Number of Infected People (Current Infected)"
+total-currently-infected-linear: "Number of Infected People (Currently Infected)"
+
+cases-cured-daily-1: "New Cases vs. New Recoveries - Number of newly infected vs. number of recovered and discharged patients each day (New Recoveries)"
+cases-cured-daily-2: "New Cases vs. New Recoveries - Number of newly infected vs. number of recovered and discharged patients each day (New Cases)"
+
+deaths-cured-outcome-1: "Outcome of total closed cases (recovery rate vs death rate) - Cumulative total deaths and recoveries over cumulative number of closed cases (Death Rate)"
+deaths-cured-outcome-2: "Outcome of total closed cases (recovery rate vs death rate) - Cumulative total deaths and recoveries over cumulative number of closed cases (Recovery Rate)"
+
+deaths-cured-outcome-small-1: "Cumulative total deaths and recoveries over cumulative number of closed cases (Death Rate)"
+deaths-cured-outcome-small-2: "Cumulative total deaths and recoveries over cumulative number of closed cases (Recovery Rate)"
